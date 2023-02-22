@@ -30,7 +30,7 @@ body{
     align-items: flex-start;
     justify-content: flex-start;
     background-color: hsl(31, 77%, 52%);
-    padding:5%;
+    padding:4%;
 }
 
 .section2 {
@@ -39,7 +39,7 @@ body{
     align-items: flex-start;
     justify-content: flex-start;
     background-color: hsl(184, 100%, 22%);
-    padding:5%;
+    padding:4%;
 }
 
 .section3 {
@@ -48,7 +48,7 @@ body{
     align-items: flex-start;
     justify-content: flex-start;
     background-color: hsl(179, 100%, 13%);
-    padding:5%;
+    padding:4%;
 }
 
 svg{
@@ -79,10 +79,10 @@ p{
     background-color: hsl(0, 0%, 95%);
     color:hsl(31, 77%, 52%);
     border:none;
-    height:20%;
+    height:13%;
     width: 70%;
     border-radius: 70px;
-    margin-top: 1rem;
+    margin-top: 3rem;
 }
 
 .btn_sedan:hover{
@@ -101,10 +101,10 @@ p{
     background-color: hsl(0, 0%, 95%);
     color:hsl(31, 77%, 52%);
     border:none;
-    height:20%;
+    height:13%;
     width: 70%;
     border-radius: 70px;
-    margin-top: 1rem;
+    margin-top: 3rem;
 }
 
 .btn_suvs:hover{
@@ -123,10 +123,10 @@ p{
     background-color: hsl(0, 0%, 95%);
     color:hsl(31, 77%, 52%);
     border:none;
-    height:20%;
+    height:13%;
     width: 70%;
     border-radius: 70px;
-    margin-top: 1rem;
+    margin-top: 3rem;
 }
 
 .btn_luxury:hover{
