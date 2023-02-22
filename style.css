@@ -19,7 +19,7 @@ body{
 .sections {
     display:flex;
     flex-direction: row;
-    height: 60%;
+    height: 65%;
     width: 70%;
     border-radius: 7px;
     overflow: hidden;
@@ -79,10 +79,11 @@ p{
     background-color: hsl(0, 0%, 95%);
     color:hsl(31, 77%, 52%);
     border:none;
-    height:13%;
+    font-weight: 700;
+    height:10%;
     width: 70%;
     border-radius: 70px;
-    margin-top: 3rem;
+    margin-top: 6rem;
 }
 
 .btn_sedan:hover{
@@ -101,10 +102,11 @@ p{
     background-color: hsl(0, 0%, 95%);
     color:hsl(31, 77%, 52%);
     border:none;
-    height:13%;
+    font-weight: 700;
+    height:10%;
     width: 70%;
     border-radius: 70px;
-    margin-top: 3rem;
+    margin-top: 6rem;
 }
 
 .btn_suvs:hover{
@@ -123,10 +125,11 @@ p{
     background-color: hsl(0, 0%, 95%);
     color:hsl(31, 77%, 52%);
     border:none;
-    height:13%;
+    font-weight: 700;
+    height:10%;
     width: 70%;
     border-radius: 70px;
-    margin-top: 3rem;
+    margin-top: 6rem;
 }
 
 .btn_luxury:hover{
